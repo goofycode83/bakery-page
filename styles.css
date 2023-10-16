@@ -1,0 +1,19 @@
+
+#H img {
+    height: 250px;
+    width: 250px;
+}
+
+#V img {
+    height: 250px;
+    width: 250px;
+}
+
+section img {
+    height: 250px;
+    width: 450px;
+}
+
+#logo {
+    background-color: palevioletred;
+}
